@@ -1,4 +1,5 @@
 function shout(string){
+  var string ="Hey Jimmy";
   return string.toUpperCase()
 }
 
